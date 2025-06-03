@@ -1,4 +1,4 @@
-package com.hf.juc.part2;
+package com.hf.juc.proxy;
 
 /**
  * @author tdw
